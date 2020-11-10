@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1604962015 source:d:\codeblocks\kursachslast\main.c
+	<stdio.h>
+	<stdlib.h>
+	"headers/structs.h"
+	"headers/nodeFunctions.h"
+	"headers/structFunctions.h"
+	"headers/textFunctions.h"
+	"headers/Menu.h"
+
+1604962905 d:\codeblocks\kursachslast\headers\structs.h
+	<stdlib.h>
+
+1604962752 d:\codeblocks\kursachslast\headers\nodefunctions.h
+	"structs.h"
+	"structFunctions.h"
+	"textFunctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1604962834 d:\codeblocks\kursachslast\headers\structfunctions.h
+	"structs.h"
+	"nodeFunctions.h"
+	"textFunctions.h"
+	"structs.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1604962964 d:\codeblocks\kursachslast\headers\textfunctions.h
+	"structs.h"
+	"structFunctions.h"
+	"nodeFunctions.h"
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
+1604962663 d:\codeblocks\kursachslast\headers\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	"structs.h"
+	"nodeFunctions.h"
+	"structFunctions.h"
+	"textFunctions.h"
+
+1604962245 source:d:\codeblocks\kursachslast\menu.c
+	"headers/Menu.h"
+
+1604962339 source:d:\codeblocks\kursachslast\nodefunctions.c
+	"headers/nodeFunctions.h"
+
+1604962422 source:d:\codeblocks\kursachslast\structfunctions.c
+	"headers/structFunctions.h"
+
+1604962524 source:d:\codeblocks\kursachslast\textfunctions.c
+	"headers/textFunctions.h"
+

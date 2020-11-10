@@ -1,0 +1,8 @@
+adidas;ozweego;50;38;6;
+nike;blazer;23;45;4;
+adidas;nmd;67;40;7;
+puma;suede;54;35;5;
+nike;cortez;46;41;8;
+asics;tiger;67;37;5;
+fila;disruptor;45;36;3;
+reebok;classic;75;44;9;
